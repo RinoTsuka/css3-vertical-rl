@@ -1,5 +1,10 @@
 html {
-
+  font-family: 'Yu Mincho', YuMincho, 'Hiragino Mincho ProN', 'Hiragino Mincho Pro', 'HGP明朝B', serif;
+  -webkit-font-feature-settings: 'pkna';
+          font-feature-settings: 'pkna';
+  font-size: 17px;
+  line-height: 1.9;
+  letter-spacing: 0.03em;
   -webkit-writing-mode: vertical-rl;
       -ms-writing-mode: tb-rl;
           writing-mode: vertical-rl;
